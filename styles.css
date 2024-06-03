@@ -1,0 +1,65 @@
+body {
+    background-color: white;
+    border-radius: 12px;
+    padding: 12px;
+}
+div {
+    border-color: #616161;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 12px;
+    padding: 10px;
+    direction: row;
+    align-items: center;
+
+    gap: 10;
+}
+
+h1 {
+    padding: 20px;
+    color: black;
+}
+
+p {
+    color:black;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Iosevka;
+    font-weight: bold;
+    border-radius: 12px;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+a {
+    color: #007bff;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: ultralight;
+    underline: double;
+    underline-color: #007bff;
+
+    margin-right: 50px;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+select {
+    padding: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ccc;
+    border-radius: 3px;
+
+    margin-left: 40px;
+}
+
+hr {
+    border-color: #ccc;
+    border-width: 1px;
+    border-style: solid;
+}
